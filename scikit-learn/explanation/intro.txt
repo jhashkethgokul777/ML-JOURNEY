@@ -1,0 +1,15 @@
+1. Scikit-learn basics
+what is scikit-learn and why use?
+installing and importing sklearn
+dataset loading
+splitting data
+Fitting models
+Evaluation basics
+
+2.preprocessing & Model selection
+Handling missing values
+feature scaling
+Pipelines
+Feature selection
+Cross selection
+Cross validation

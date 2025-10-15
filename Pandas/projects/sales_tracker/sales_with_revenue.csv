@@ -1,0 +1,7 @@
+date,product,units_sold,price_per_unit,revenue
+2025-07-01,notebook,30,50,1500
+2025-07-01,pen,100,5,500
+2025-07-02,pencil,80,3,240
+2025-07-02,notebook,25,50,1250
+2025-07-03,eraser,60,2,120
+2025-07-03,eraser,50,2,100
